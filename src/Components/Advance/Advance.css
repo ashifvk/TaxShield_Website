@@ -1,0 +1,30 @@
+.ad-img {
+}
+
+
+.btnwel1 {
+    margin-left: 1rem;
+    width: 130px;
+    border: #80BC40 solid !important;
+    background-color: #80BC40 !important;
+    color: #ffff !important;
+}
+
+.btnwel2 {
+    width: 130px;
+    border: #80BC40 solid !important;
+    color: #80BC40 !important;
+}
+.btnwel2:hover{
+    background-color: #80BC40 !important;
+    color: #ffff !important;
+
+}
+.advance-h1{
+    color: #6134c1;
+    padding-bottom: 30px;
+}
+.icon-color{
+    color: #80BC40 !important;
+
+}

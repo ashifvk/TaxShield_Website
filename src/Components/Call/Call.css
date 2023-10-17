@@ -1,0 +1,50 @@
+
+.welcome-text {
+    padding-left: .7rem;
+    color: #80BC40;
+}
+
+.btnwel1 {
+    margin-left: 1rem;
+    width: 130px;
+    border: #80BC40 solid !important;
+    background-color: #80BC40 !important;
+    color: #ffff !important;
+}
+
+.btnwel2 {
+    width: 130px;
+    border: #80BC40 solid !important;
+    color: #80BC40 !important;
+}
+.btnwel2:hover{
+    background-color: #80BC40 !important;
+    color: #ffff !important;
+
+}
+.call-h1{
+    color: #80BC40 !important;
+    padding-bottom: 20px;
+}
+.icon-color{
+    color: #80BC40 !important;
+
+}
+.head1{
+    color: #80BC40 !important;
+
+}
+.head2{
+    color:#6134C1
+
+}
+
+.gradient-2{
+    background: linear-gradient(to right, #b5b3cf 0%, #ffff 100%);
+
+}
+
+.text-grade{
+    background: linear-gradient(to right, #e8edeb 0%, #c5e1d5 100%);
+
+}

@@ -1,0 +1,16 @@
+.table-width{
+    width: 70% !important;
+    margin: auto;
+    margin-top: 150px !important;
+}
+.btn-table {
+    width: 120px;
+    border: #80BC40 solid !important;
+    color: #80BC40 !important;
+    border-radius: 50px !important;
+}
+.btn-table:hover{
+  background-color: #80BC40 !important;
+  color: #ffff !important;
+
+}

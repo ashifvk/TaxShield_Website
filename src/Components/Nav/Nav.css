@@ -1,0 +1,17 @@
+
+.btn-change{
+    background-color:#80BC40 !important ;
+    border: #80BC40 solid !important;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px !important; 
+           color: #ffff !important;
+}
+.btn2-change{
+    border: #80BC40 solid !important;
+    color: #80BC40 !important;
+
+}
+.btn2-change:hover{
+    background-color:#80BC40 !important ;
+    color: #ffff !important;
+    
+}
